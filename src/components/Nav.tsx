@@ -10,7 +10,7 @@ export const Nav = () => {
   return (
     <nav
       data-cy="nav"
-      className="navbar is-fixed-top has-shadow"
+      className="navbar has-navbar-fixed-top has-shadow"
       role="navigation"
       aria-label="main navigation"
     >
